@@ -1,0 +1,36 @@
+body{
+    background-image: url('https://cdn.dribbble.com/users/1355613/screenshots/6197011/____4_2x.jpg');
+    background-size: auto 100vh;
+    background-repeat:no-repeat;
+    height:100vh;
+    font-family: Verdana;
+  }
+  
+  .menu li{
+    list-style:none;
+  }
+  
+  .menu ul{
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  a{
+    color:#045FB4;
+    text-decoration: none;
+  }
+  
+  a:hover{
+    text-decoration: underline;
+  }
+  
+  .site-subtitle,
+  .site-title{
+    color:#151515;
+    text-align: center;
+    }
+  
+  .site-subtitle{
+    font-style:oblique;
+  }
+  
